@@ -3,6 +3,7 @@ This is a project about train positioning, using the application to view real-ti
 
 本科毕业设计做的一个使用百度地图进行列车定位的web系统。
 设计流程如下：
+
 1.获取全国火车站站点信息： 
 从12306官网提供的API入口url——https://kyfw.12306.cn/otn/resources/js/framework/station_name.js， 获取全国火车站站点信息，保存到数据库为表station_list
 
