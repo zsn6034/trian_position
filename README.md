@@ -22,8 +22,9 @@ This is a project about train positioning, using the application to view real-ti
 在百度地图上，将绘制好的路线及根据当前时间计算出来的定位进行显示反馈给用户
 
 注:程序中虽然调用了百度地图api将每个位置的文字地理信息与经纬度转换从而可以在地图上标注出位置点，但是由于百度地图API在处理某些地址时转换的经纬度有误，所以在其中加入了一部分手工检查工作，筛选出一些转换的经纬度与真实经纬度差距较大的地址，将其放入一个HashMap中进行特殊处理。
-附:程序访问地址——http://leftboy2017.win:8080/train_position/train_position/train_query.jsp
-（后续可能因为服务器租用原因更改访问地址导致无法访问，届时可能另有说明）
+附程序截图：
+![main](https://github.com/zsn6034/trian_position/blob/master/main.png)
+![result](https://github.com/zsn6034/trian_position/blob/master/result.png)
 
 
 
