@@ -25,6 +25,7 @@ This is a project about train positioning, using the application to view real-ti
 附程序截图：
 ![main](https://github.com/zsn6034/trian_position/blob/master/main.png)
 ![result](https://github.com/zsn6034/trian_position/blob/master/result.png)
+![detail](https://github.com/zsn6034/trian_position/blob/master/detail.png)
 
 
 
